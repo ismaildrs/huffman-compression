@@ -1,0 +1,2 @@
+project(HuffmanCompression)
+add_executable(hc ../src/main.cpp ../src/getBinary.cpp ../src/getFrequency.cpp ../src/getHuffmanTree.cpp ../src/getMinHeap.cpp ../src/makeBinaryFile.cpp ../src/makeTextFile.cpp)

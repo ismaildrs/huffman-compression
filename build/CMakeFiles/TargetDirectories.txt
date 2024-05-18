@@ -1,0 +1,3 @@
+/home/ismail/Documents/Projects/cpp/huffman_app/huffman_application/build/CMakeFiles/hc.dir
+/home/ismail/Documents/Projects/cpp/huffman_app/huffman_application/build/CMakeFiles/edit_cache.dir
+/home/ismail/Documents/Projects/cpp/huffman_app/huffman_application/build/CMakeFiles/rebuild_cache.dir
